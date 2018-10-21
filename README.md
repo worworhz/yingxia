@@ -1,3 +1,5 @@
+<div id="layout-content" style="margin-top:25px">
+
 <table>
 	<tbody>
 		<tr>
@@ -33,9 +35,11 @@
 		</tr>
 	</tbody> 
 </table>
+
 ## 
 
-  _"There is nothing as practical as a good theory."_ - Kurt Lewin</br>
+  _"There is nothing as practical as a good theory."_ - Kurt Lewin
+
   _"The test of all knowledge is experiment."_ - Richard Feynman
 
 ## Biography
@@ -44,109 +48,151 @@
 
 I have broad research interests in machine learning and computer vision. Recently I am focusing on the intersection of graphical models and neural networks.
 
-## Selected Publications ([Google Scholar](http://scholar.google.com/citations?user=2wrS35MAAAAJ&hl=en&oi=ao))
+## Selected Publications ([Google Scholar](http://scholar.google.com/citations?user=2wrS35MAAAAJ&amp;hl=en&amp;oi=ao))
 
-  ***** below indicates equal contribution*   [Neural Guided Constraint Logic Programming for Program Synthesis,</br>](https://arxiv.org/pdf/1809.02840.pdf)
-    Lisa Zhang, Gregory Rosenblatt, Ethan Fetaya, **Renjie Liao**, William E Byrd, Raquel Urtasun, Richard S. Zemel</br>
-    _Neural Information Processing Systems_ (**NIPS**), 2018.  </br>
+  ***** below indicates equal contribution*   [Neural Guided Constraint Logic Programming for Program Synthesis,
+](https://arxiv.org/pdf/1809.02840.pdf)
+    Lisa Zhang, Gregory Rosenblatt, Ethan Fetaya, **Renjie Liao**, William E Byrd, Raquel Urtasun, Richard S. Zemel
+
+        _Neural Information Processing Systems_ (**NIPS**), 2018.
 
       [[Code](https://github.com/xuexue/neuralkanren)] [[Workshop](https://openreview.net/forum?id=HJIHtIJvz)]
-*   [Reviving and Improving Recurrent Back-Propagation,</br>](https://arxiv.org/pdf/1803.06396.pdf)
-    **Renjie Liao***, Yuwen Xiong*****, Ethan Fetaya, Lisa Zhang, KiJung Yoon, Xaq Pitkow, Raquel Urtasun, Richard S. Zemel</br>
-    _International Conference on Machine Learning_ (**ICML**), 2018. **<font color="red">[Full Oral]</font>** </br>
+*   [Reviving and Improving Recurrent Back-Propagation,
+](https://arxiv.org/pdf/1803.06396.pdf)
+    **Renjie Liao***, Yuwen Xiong*****, Ethan Fetaya, Lisa Zhang, KiJung Yoon, Xaq Pitkow, Raquel Urtasun, Richard S. Zemel
+
+        _International Conference on Machine Learning_ (**ICML**), 2018. **<font color="red">[Full Oral]</font>**
 
       [[Code](https://github.com/lrjconan/RBP)][[Slides](./papers/rbp_slides.pdf)]
 
-*   [Inference in Probabilistic Graphical Models by Graph Neural Networks,</br>](https://arxiv.org/pdf/1803.07710.pdf)
-    KiJung Yoon, **Renjie Liao**, Yuwen Xiong, Lisa Zhang, Ethan Fetaya, Raquel Urtasun, Richard S. Zemel, Xaq Pitkow</br>
-    _International Conference on Learning Representations Workshop_ (**ICLR**), 2018. </br>
-    <!-- _arXiv preprint arXiv:1803.07710_, 2018.</br> -->
+*   [Inference in Probabilistic Graphical Models by Graph Neural Networks,
+](https://arxiv.org/pdf/1803.07710.pdf)
+    KiJung Yoon, **Renjie Liao**, Yuwen Xiong, Lisa Zhang, Ethan Fetaya, Raquel Urtasun, Richard S. Zemel, Xaq Pitkow
 
-*   [Graph Partition Neural Networks for Semi-Supervised Classification,</br>](https://arxiv.org/pdf/1803.06272.pdf)
-    **Renjie Liao**, Marc Brockschmidt, Daniel Tarlow, Alexander Gaunt, Raquel Urtasun, Richard S. Zemel</br>
-    _International Conference on Learning Representations Workshop_ (**ICLR**), 2018. </br>
+        _International Conference on Learning Representations Workshop_ (**ICLR**), 2018.
+        <!-- _arXiv preprint arXiv:1803.07710_, 2018.</br> -->
+
+*   [Graph Partition Neural Networks for Semi-Supervised Classification,
+](https://arxiv.org/pdf/1803.06272.pdf)
+    **Renjie Liao**, Marc Brockschmidt, Daniel Tarlow, Alexander Gaunt, Raquel Urtasun, Richard S. Zemel
+
+        _International Conference on Learning Representations Workshop_ (**ICLR**), 2018.
 
       [[Code](https://github.com/Microsoft/graph-partition-neural-network-samples)]
-*   [NerveNet: Learning Structured Policy with Graph Neural Networks,</br>](https://openreview.net/pdf?id=S1sqHMZCb)
-    Tingwu Wang*****, **Renjie Liao***, Jimmy Ba, Sanja Fidler</br>
-    _International Conference on Learning Representations_ (**ICLR**), 2018. </br>
+*   [NerveNet: Learning Structured Policy with Graph Neural Networks,
+](https://openreview.net/pdf?id=S1sqHMZCb)
+    Tingwu Wang*****, **Renjie Liao***, Jimmy Ba, Sanja Fidler
 
-      [[Project & Code](http://www.cs.toronto.edu/~tingwuwang/nervenet.html)]
-*   [Understanding Short-Horizon Bias in Stochastic Meta-Optimization,</br>](https://arxiv.org/pdf/1803.02021.pdf)
-    Yuhuai Wu, Mengye Ren, **Renjie Liao**, Roger Grosse.</br>
-    _International Conference on Learning Representations_ (**ICLR**), 2018. </br>
+        _International Conference on Learning Representations_ (**ICLR**), 2018.
+
+      [[Project &amp; Code](http://www.cs.toronto.edu/~tingwuwang/nervenet.html)]
+*   [Understanding Short-Horizon Bias in Stochastic Meta-Optimization,
+](https://arxiv.org/pdf/1803.02021.pdf)
+    Yuhuai Wu, Mengye Ren, **Renjie Liao**, Roger Grosse.
+
+        _International Conference on Learning Representations_ (**ICLR**), 2018.
 
       [[Code](https://github.com/renmengye/meta-optim-public)]
 
-*   [GeoNet: Geometric Neural Network for Joint Depth and Surface Normal Estimation,</br>](./papers/CVPR_2018_GeoNet.pdf)
-    Xiaojuan Qi, **Renjie Liao**, Zhengzhe Liu, Raquel Urtasun, Jiaya Jia.</br>
-    _ International Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 2018.</br>
+*   [GeoNet: Geometric Neural Network for Joint Depth and Surface Normal Estimation,
+](./papers/CVPR_2018_GeoNet.pdf)
+    Xiaojuan Qi, **Renjie Liao**, Zhengzhe Liu, Raquel Urtasun, Jiaya Jia.
 
-*   [Learning Deep Structured Active Contours End-to-End,</br>](https://arxiv.org/pdf/1803.06329.pdf)
-    Diego Marcos, Devis Tuia, Benjamin Kellenberger, Lisa Zhang, Min Bai, **Renjie Liao**, Raquel Urtasun.</br>
-    _ International Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 2018. **<font color="red">[Spotlight]</font>** </br>
+        _ International Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 2018.
+
+*   [Learning Deep Structured Active Contours End-to-End,
+](https://arxiv.org/pdf/1803.06329.pdf)
+    Diego Marcos, Devis Tuia, Benjamin Kellenberger, Lisa Zhang, Min Bai, **Renjie Liao**, Raquel Urtasun.
+
+        _ International Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 2018. **<font color="red">[Spotlight]</font>**
 
       [[Code](https://github.com/dmarcosg/DSAC)]
 
-*   [3D Graph Neural Networks for RGBD Semantic Segmentation,</br>](./papers/iccv_2017_3DGNN.pdf)
-    Xiaojuan Qi, **Renjie Liao**, Jiaya Jia, Sanja Fidler, Raquel Urtasun</br>
-    _IEEE International Conference on Computer Vision_ (**ICCV**), 2017. **<font color="red">[Oral]</font>** </br>
+*   [3D Graph Neural Networks for RGBD Semantic Segmentation,
+](./papers/iccv_2017_3DGNN.pdf)
+    Xiaojuan Qi, **Renjie Liao**, Jiaya Jia, Sanja Fidler, Raquel Urtasun
+
+        _IEEE International Conference on Computer Vision_ (**ICCV**), 2017. **<font color="red">[Oral]</font>**
       [[Code](https://github.com/xjqicuhk/3DGNN)]
 
-*   [Situation Recognition with Graph Neural Networks,</br>](./papers/iccv_2017_situation.pdf)
-    Ruiyu Li, Makarand Tapaswi, **Renjie Liao**, Jiaya Jia, Raquel Urtasun, Sanja Fidler</br>
-    _IEEE International Conference on Computer Vision_ (**ICCV**), 2017. </br>
-*   [Detail-revealing Deep Video Super-Resolution,</br>](./papers/iccv_2017_detail_SR.pdf)
-    Xin Tao, Hongyun Gao, **Renjie Liao**, Jue Wang, Jiaya Jia</br>
-    _IEEE International Conference on Computer Vision_ (**ICCV**), 2017. **<font color="red">[Oral]</font>** </br>
+*   [Situation Recognition with Graph Neural Networks,
+](./papers/iccv_2017_situation.pdf)
+    Ruiyu Li, Makarand Tapaswi, **Renjie Liao**, Jiaya Jia, Raquel Urtasun, Sanja Fidler
+
+        _IEEE International Conference on Computer Vision_ (**ICCV**), 2017.
+*   [Detail-revealing Deep Video Super-Resolution,
+](./papers/iccv_2017_detail_SR.pdf)
+    Xin Tao, Hongyun Gao, **Renjie Liao**, Jue Wang, Jiaya Jia
+
+        _IEEE International Conference on Computer Vision_ (**ICCV**), 2017. **<font color="red">[Oral]</font>**
 
       [[Code](https://github.com/jiangsutx/SPMC_VideoSR)]
 
-*   [Normalizing the Normalizers: Comparing and Extending Network Normalization Schemes,</br>](./papers/arXiv_2016_Normalization.pdf)
-    Mengye Ren*****, **Renjie Liao***, Raquel Urtasun, Fabian H. Sinz, Richard S. Zemel</br>
-    _International Conference on Learning Representations_ (**ICLR**), 2017. </br>
+*   [Normalizing the Normalizers: Comparing and Extending Network Normalization Schemes,
+](./papers/arXiv_2016_Normalization.pdf)
+    Mengye Ren*****, **Renjie Liao***, Raquel Urtasun, Fabian H. Sinz, Richard S. Zemel
+
+        _International Conference on Learning Representations_ (**ICLR**), 2017.
 
       [[Code](https://github.com/renmengye/div-norm)]
 
-*   [Learning Deep Parsimonious Representation,</br>](./papers/NIPS_2016_Parsimonious.pdf)
-    **Renjie Liao**, Alexander Schwing, Richard S. Zemel, Raquel Urtasun.</br>
-    _Neural Information Processing Systems_ (**NIPS**), 2016.  </br>
+*   [Learning Deep Parsimonious Representation,
+](./papers/NIPS_2016_Parsimonious.pdf)
+    **Renjie Liao**, Alexander Schwing, Richard S. Zemel, Raquel Urtasun.
+
+        _Neural Information Processing Systems_ (**NIPS**), 2016.
 
       [[Code](https://github.com/lrjconan/deep_parsimonious)]
 
-*   [Video Super-Resolution via Deep Draft-Ensemble Learning,</br>](./papers/ICCV_2015_Video.pdf)
-    **Renjie Liao**, Xin Tao, Ruiyu Li, Ziyang Ma, Jiaya Jia.</br>
-    _IEEE International Conference on Computer Vision_ (**ICCV**), 2015.  </br>
+*   [Video Super-Resolution via Deep Draft-Ensemble Learning,
+](./papers/ICCV_2015_Video.pdf)
+    **Renjie Liao**, Xin Tao, Ruiyu Li, Ziyang Ma, Jiaya Jia.
 
-      [[Project & Code](http://www.cse.cuhk.edu.hk/leojia/projects/DeepSR/)]
+        _IEEE International Conference on Computer Vision_ (**ICCV**), 2015.
 
-*   [Semantic Segmentation With Object Clique Potential,</br>](./papers/ICCV_2015_Semantic.pdf)
-    Xiaojuan Qi, Jianping Shi, Shu Liu, **Renjie Liao**, Jiaya Jia.</br>
-    _IEEE International Conference on Computer Vision_ (**ICCV**), 2015.  </br>
-*   [Handling Motion Blur in Multi-Frame Super-Resolution,</br>](./papers/CVPR_2015_Handling.pdf)
-    Ziyang Ma, **Renjie Liao**, Xin Tao, Li Xu, Jiaya Jia, Enhua Wu.</br>
-    _International Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 2015.  </br>
+      [[Project &amp; Code](http://www.cse.cuhk.edu.hk/leojia/projects/DeepSR/)]
 
-      [[Project & Code](http://www.cse.cuhk.edu.hk/~leojia/projects/mfsr/index.html)]
+*   [Semantic Segmentation With Object Clique Potential,
+](./papers/ICCV_2015_Semantic.pdf)
+    Xiaojuan Qi, Jianping Shi, Shu Liu, **Renjie Liao**, Jiaya Jia.
 
-*   [Deep Edge-Aware Filters,</br>](./papers/ICML_2015_Deep.pdf)
-    Li Xu, Jimmy Ren, Qiong Yan, **Renjie Liao**, Jiaya Jia</br>
-		_International Conference on Machine Learning_ (**ICML**), 2015.  </br>
-*   [Bounded-Distortion Metric Learning,</br>](./papers/arXiv_2015_Bounded.pdf)
-		**Renjie Liao**, Jianping Shi, Ziyang Ma, Jun Zhu, Jiaya Jia.</br>
-		_arXiv preprint arXiv:1505.02377_, 2015.</br>
+        _IEEE International Conference on Computer Vision_ (**ICCV**), 2015.
+*   [Handling Motion Blur in Multi-Frame Super-Resolution,
+](./papers/CVPR_2015_Handling.pdf)
+    Ziyang Ma, **Renjie Liao**, Xin Tao, Li Xu, Jiaya Jia, Enhua Wu.
 
-*   [Nonparametric Bayesian Upstream Supervised Multi-Modal Topic Models,</br>](./papers/WSDM_2014_NPBUS.pdf)
-		**Renjie Liao**, Jun Zhu, Zengchang Qin.</br>
-		_ACM International Conference on Web Search and Data Mining_ (**WSDM**), 2014.</br>
+        _International Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 2015.
 
-*   [Learning Important Spatial Pooling Regions for Scene Classification,</br>](./papers/CVPR_2014_ISPR.pdf)
-		Di Lin, Cewu Lu, **Renjie Liao**, Jiaya Jia.</br>
-		_ International Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 2014.</br>
+      [[Project &amp; Code](http://www.cse.cuhk.edu.hk/~leojia/projects/mfsr/index.html)]
 
-*   [CoDeL: An Efficient Human Co-detection and Labeling Framework,</br>](./papers/ICCV_2013_CoDeL.pdf)
-		Jianping Shi*****, **Renjie Liao***, Jiaya Jia.</br>
-		_IEEE International Conference on Computer Vision_ (**ICCV**), 2013.  </br>
+*   [Deep Edge-Aware Filters,
+](./papers/ICML_2015_Deep.pdf)
+    Li Xu, Jimmy Ren, Qiong Yan, **Renjie Liao**, Jiaya Jia
+
+    		_International Conference on Machine Learning_ (**ICML**), 2015.
+*   [Bounded-Distortion Metric Learning,
+](./papers/arXiv_2015_Bounded.pdf)
+		**Renjie Liao**, Jianping Shi, Ziyang Ma, Jun Zhu, Jiaya Jia.
+
+    		_arXiv preprint arXiv:1505.02377_, 2015.
+
+*   [Nonparametric Bayesian Upstream Supervised Multi-Modal Topic Models,
+](./papers/WSDM_2014_NPBUS.pdf)
+		**Renjie Liao**, Jun Zhu, Zengchang Qin.
+
+    		_ACM International Conference on Web Search and Data Mining_ (**WSDM**), 2014.
+
+*   [Learning Important Spatial Pooling Regions for Scene Classification,
+](./papers/CVPR_2014_ISPR.pdf)
+		Di Lin, Cewu Lu, **Renjie Liao**, Jiaya Jia.
+
+    		_ International Conference on Computer Vision and Pattern Recognition_ (**CVPR**), 2014.
+
+*   [CoDeL: An Efficient Human Co-detection and Labeling Framework,
+](./papers/ICCV_2013_CoDeL.pdf)
+		Jianping Shi*****, **Renjie Liao***, Jiaya Jia.
+
+    		_IEEE International Conference on Computer Vision_ (**ICCV**), 2013.
 
 			[[Project](http://shijianping.me/codel/index.html)]
 
@@ -162,19 +208,52 @@ I have broad research interests in machine learning and computer vision. Recentl
 
 ## Teaching
 
-*   CSC 321: Introduction to Neural Networks (2017 Winter)*   ECE 521: Inference Algorithms and Machine Learning (2017 Winter)*   CSC 411/2515: Introduction to Machine Learning (2016 Fall)*   CSC 321: Introduction to Neural Networks (2016 Winter) </br>
-    The [assignment](http://www.cs.toronto.edu/~guerzhoy/tmp/understand-rnn/) I designed with [Michael Guerzhoy](http://www.cs.toronto.edu/~guerzhoy/) is accepted by _The 8th Symposium On Educational Advances In Artificial Intelligence, Model AI Assignments_, **AAAI**, 2018.
+*   CSC 321: Introduction to Neural Networks (2017 Winter)*   ECE 521: Inference Algorithms and Machine Learning (2017 Winter)*   CSC 411/2515: Introduction to Machine Learning (2016 Fall)*   CSC 321: Introduction to Neural Networks (2016 Winter)
+        The [assignment](http://www.cs.toronto.edu/~guerzhoy/tmp/understand-rnn/) I designed with [Michael Guerzhoy](http://www.cs.toronto.edu/~guerzhoy/) is accepted by _The 8th Symposium On Educational Advances In Artificial Intelligence, Model AI Assignments_, **AAAI**, 2018.
 *   CSC 411/2515: Introduction to Machine Learning (2015 Fall)
 
 ## Services
 
 *   Journal Reviewer: [IEEE TIP](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83), [IEEE TNNLS](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385), [IEEE TCSVT](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76), [IEEE MM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=93), [IJCV](https://link.springer.com/journal/11263), [CVIU](https://www.journals.elsevier.com/computer-vision-and-image-understanding/), [TVCJ](https://link.springer.com/journal/371)*   Conference Reviewer: ICLR 2019, CVPR 2019, NIPS 2018, ECCV 2018, UAI 2018, ICML 2018, CVPR 2018, ICLR 2018, AAAI 2018, NIPS 2017, ICML 2017, ICCV 2017, ICLR 2017, NIPS 2016
 
-## Honors & Awards
+## Honors &amp; Awards
 
+<table style="border-spacing:2px">
+
+		<!-- <tr><td>_ICLR Travel Award_, 2017.</td></tr> -->
+		<tbody><tr><td>_Connaught International Scholarship for Doctoral Students_ (University-wide 20), University of Toronto, 2015.</td></tr>
+
+		<tr><td>_Departmental Entrance Scholarship_ (Top %2 applicant), Department of Computer Science, University of Toronto, 2015.</td></tr>
+
+    <tr><td>_Graduate Scholarship_, Department of Computer Science, University of Toronto, 2015.</td></tr>
+
+    <tr><td>_Graduate Scholarship_, Department of Computer Science and Engineering, Chinese University of Hong Kong, 2013-2015.</td></tr>
+
+		<!-- <tr><td>_Travel Grant_, 11th Asian Conference on Computer Vision, Daejeon, Korea, 2012.</td></tr> -->
+
+		<!-- <tr><td>_Student Scholarship_, Machine Learning Summer School</a>, Singapore, 2011.</td></tr> -->
+
+		<tr>
+    <td>_Honorable Mention_, Mathematical Contest in Modeling (MCM), 2010, 2011, 2012.</td></tr>
+
+		<tr>
+    <td>_3rd prize_ (1%), China Finals in Software Design Competition of Imagine Cup, Microsoft, 2010.</td></tr>
+
+		<tr>
+    <td>_1st prize_ (10 out of candidates of all majors), The 20th [Feng Ru](http://en.wikipedia.org/wiki/Fung_Joe_Guey) Cup, Beihang University, 2010.</td></tr>
+
+		<tr>
+    <td>_National 2nd Prize_ (820/12272), China Undergraduate Mathematical Contest in Modeling(CUMCM), 2009.</td></tr>
+	</tbody>
+</table>
 
 ## Miscellany
 
 Hobbies: Fingerstyle Guitar, Basketball, Soccer, PC Games.
 
 Last Updated by Renjie: Aug 12 2018
+
+<div id="footer">
+	<div id="footer-text"></div>
+</div>
+</div>
