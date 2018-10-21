@@ -11,7 +11,7 @@ Email: 11728059 at zju dot edu dot cn<br/>
 
 ## EDUCATION
 
-**Ph.D.   Zhejiang University (ZJU)**                                 *Sep 2017 - Present* <br/>
+**Ph.D.   Zhejiang University (ZJU)**                                 Sep 2017 - Present <br/>
 	Chemical and Biological Engineering                              *Hangzhou, China*<br/>
 **M.S.    Zhejiang University (ZJU)**                                *Sep 2013 - Mar 2016* <br/>
 	Chemical and Biological Engineering                              *Hangzhou, China*<br/>
