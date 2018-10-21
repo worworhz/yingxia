@@ -3,8 +3,11 @@
 ### PhD
 
 College of Chemical and Biological Engineering
-Zhejiang University 
+
+Zhejiang University
+
 Rm 6210, Teaching Building 10, 38 Zheda Rd 
+
 Hangzhou, China 
 
 Email: 11728059 at zju dot edu dot cn
