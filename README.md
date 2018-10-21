@@ -9,11 +9,14 @@ Hangzhou, China <br/>
 Email: 11728059 at zju dot edu dot cn<br/>
 
 
-## Biography
+## EDUCATION
 
-  I'm a PhD student in [Machine Learning Group](http://learning.cs.toronto.edu/), Department of Computer Science, University of Toronto. My advisors are Prof. [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/) and Prof. [Richard Zemel](http://www.cs.toronto.edu/~zemel/inquiry/home.php). I'm also a part-time Researcher in [Uber Advanced Technology Group](https://www.uber.com/info/atg/) Toronto, lead by Prof. [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/). I received M.Phil. degree from Department of Computer Science and Engineering, Chinese University of Hong Kong, under the supervision of Prof. [Jiaya Jia](http://www.cse.cuhk.edu.hk/~leojia/). I got B.Eng. degree from School of Automation Science and Electrical Engineering, Beihang University (former Beijing University of Aeronautics and Astronautics). I've had the good fortune of working with some smart "[neural networks](./coworkers.html)". 
-
-I have broad research interests in machine learning and computer vision. Recently I am focusing on the intersection of graphical models and neural networks.
+**Ph.D.   Zhejiang University (ZJU)**                                 *Sep 2017 - Present* 
+Chemical and Biological Engineering                          *Hangzhou, China*
+**M.S.    Zhejiang University (ZJU)**                               *Sep 2013 - Mar 2016* 
+Chemical and Biological Engineering                          *Hangzhou, China*
+**B.S.    	Jiangnan University (JNU)**                               *Sep 2009 - Jun 2013* 
+Bioengineering                                               *Wuxi, China* 
 
 ## Selected Publications ([Google Scholar](http://scholar.google.com/citations?user=2wrS35MAAAAJ&amp;hl=en&amp;oi=ao))
 
