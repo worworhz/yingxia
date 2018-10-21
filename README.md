@@ -2,17 +2,12 @@
 
 ### PhD
 
-	Department of Computer Science
+College of Chemical and Biological Engineering
+Zhejiang University 
+Rm 6210, Teaching Building 10, 38 Zheda Rd 
+Hangzhou, China 
 
-	University of Toronto 
-
-        6 King's College Rd, Pratt Building 263 
-
-        Toronto, Ontario, M5S 3G4 
-
-        Canada 
-
-	Email: rjliao at cs dot toronto dot edu
+Email: 11728059 at zju dot edu dot cn
 
 
 ## Biography
