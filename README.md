@@ -1,46 +1,17 @@
-<div id="layout-content" style="margin-top:25px">
-
-<table>
-	<tbody>
-		<tr>
-			<td width="670">
-				<div id="toptitle">
-
-# Renjie Liao &nbsp; ![](./imgs/lrj_chinese.png)
-
-# 
-
-</div>
-
 ### PhD
 
-					Department of Computer Science
+	Department of Computer Science
 
-					University of Toronto 
+	University of Toronto 
 
-          6 King's College Rd, Pratt Building 263 
+        6 King's College Rd, Pratt Building 263 
 
-          Toronto, Ontario, M5S 3G4 
+        Toronto, Ontario, M5S 3G4 
 
-          Canada 
+        Canada 
 
-				Email: rjliao at cs dot toronto dot edu
+	Email: rjliao at cs dot toronto dot edu
 
-			</td><td>
-				![](./imgs/me_pencil.png)
-
-				<center>This pencil sketch is generated 
- by this [algorithm](http://www.cse.cuhk.edu.hk/leojia/projects/pencilsketch/pencil_drawing.htm).</center>
-			</td>
-		</tr>
-	</tbody> 
-</table>
-
-## 
-
-  _"There is nothing as practical as a good theory."_ - Kurt Lewin
-
-  _"The test of all knowledge is experiment."_ - Richard Feynman
 
 ## Biography
 
@@ -218,42 +189,10 @@ I have broad research interests in machine learning and computer vision. Recentl
 
 ## Honors &amp; Awards
 
-<table style="border-spacing:2px">
 
-		<!-- <tr><td>_ICLR Travel Award_, 2017.</td></tr> -->
-		<tbody><tr><td>_Connaught International Scholarship for Doctoral Students_ (University-wide 20), University of Toronto, 2015.</td></tr>
-
-		<tr><td>_Departmental Entrance Scholarship_ (Top %2 applicant), Department of Computer Science, University of Toronto, 2015.</td></tr>
-
-    <tr><td>_Graduate Scholarship_, Department of Computer Science, University of Toronto, 2015.</td></tr>
-
-    <tr><td>_Graduate Scholarship_, Department of Computer Science and Engineering, Chinese University of Hong Kong, 2013-2015.</td></tr>
-
-		<!-- <tr><td>_Travel Grant_, 11th Asian Conference on Computer Vision, Daejeon, Korea, 2012.</td></tr> -->
-
-		<!-- <tr><td>_Student Scholarship_, Machine Learning Summer School</a>, Singapore, 2011.</td></tr> -->
-
-		<tr>
-    <td>_Honorable Mention_, Mathematical Contest in Modeling (MCM), 2010, 2011, 2012.</td></tr>
-
-		<tr>
-    <td>_3rd prize_ (1%), China Finals in Software Design Competition of Imagine Cup, Microsoft, 2010.</td></tr>
-
-		<tr>
-    <td>_1st prize_ (10 out of candidates of all majors), The 20th [Feng Ru](http://en.wikipedia.org/wiki/Fung_Joe_Guey) Cup, Beihang University, 2010.</td></tr>
-
-		<tr>
-    <td>_National 2nd Prize_ (820/12272), China Undergraduate Mathematical Contest in Modeling(CUMCM), 2009.</td></tr>
-	</tbody>
-</table>
 
 ## Miscellany
 
 Hobbies: Fingerstyle Guitar, Basketball, Soccer, PC Games.
 
 Last Updated by Renjie: Aug 12 2018
-
-<div id="footer">
-	<div id="footer-text"></div>
-</div>
-</div>
